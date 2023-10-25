@@ -1,5 +1,6 @@
 # Loading Bar Animation 
 
+## Demo Site - https://loadinganimationpage.netlify.app/
 This repository contains a simple HTML and CSS project for creating a loading bar animation. The animation represents a loading progress bar with changing colors. This README will provide an overview of the project, its structure, and how to use it.
 
 ## Table of Contents
